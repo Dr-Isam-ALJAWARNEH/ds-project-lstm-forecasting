@@ -2,6 +2,7 @@ Given the weather conditions and pollution for prior hours, we forecast the poll
 
 ***Team members***:
 - [Dr. Isam Al Jawarneh](https://isamaljawarneh.github.io/) (```supervisor```)
+- [Madyan Omar](https://github.com/MadyanOmar) (```member```)
 - [add you names here]
 
  
